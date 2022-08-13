@@ -1,0 +1,1 @@
+const a2: number = 2
